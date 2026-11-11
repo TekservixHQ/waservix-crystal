@@ -1,0 +1,16 @@
+name: waservix
+version: 1.0.0
+
+description: |
+  Crystal client for the WAservix WhatsApp API Gateway: send WhatsApp messages from your
+  own number. Needs a Tekservix account with WAservix and your number's API key.
+
+authors:
+  - Tekservix <support@tekservix.com>
+
+crystal: ">= 1.10.0"
+
+license: MIT
+repository: https://github.com/TekservixHQ/waservix-crystal
+homepage: https://tekservix.com/waservix/
+documentation: https://tekservix.com/waservix/docs/
